@@ -1,4 +1,4 @@
-[Powered by Electricity](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+![Powered by Electricity](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![Build with Science](https://forthebadge.com/images/badges/built-with-science.svg)
 ![Design in MS Paint](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)
 ![Contains Cat Gif](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
@@ -21,7 +21,15 @@ Don't ask why, ask Why not.
 When you want to.
 
 ## How
-Same API just translated.
+Install it
+```bash
+yarn add react-but-thai react-dom-but-thai
+
+// or with npm
+npm install --save react-but-thai react-dom-but-thai
+```
+
+Then use the same API but it's translated.
 
 Use `ตอบสนอง` instead of `react`
 use `รูปแบบวัตถุเอกสารตอบสนอง` insteand of `react-dom`
@@ -86,5 +94,7 @@ use `รูปแบบวัตถุเอกสารตอบสนอง` i
 
 ## Why should I use this
 Because this contains cat gif but React doesn't not.
+  
 ![Cat](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5zsV_PQnkge0JhfeUjKpIctiv1oSBUpQypg&usqp=CAU)
+  
 See?
